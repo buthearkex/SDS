@@ -1,0 +1,50 @@
+var phones = {"models":[{
+    "OS":"Android",
+    "brand":"Samsung",
+    "model":"Galaxy J7 Prime",
+    "price":"500",
+    "screen":"5.5",
+    "camera":"13",
+    "memory":"16"
+    },{
+    "OS":"Android",
+    "brand":"Samsung",
+    "model":"Galaxy J7 Prime",
+    "price":"500",
+    "screen":"5.5",
+    "camera":"13",
+    "memory":"32"
+    },{
+    "OS":"Android",
+    "brand":"Samsung",
+    "model":"Galaxy A5",
+    "price":"400",
+    "screen":"5.2",
+    "camera":"16",
+    "memory":"32"
+    },{
+    "OS":"iOS",
+    "brand":"Apple",
+    "model":"iPhone 7 Plus",
+    "price":"800",
+    "screen":"5.5",
+    "camera":"2x12",
+    "memory":"32"  
+    },{
+    "OS":"iOS",
+    "brand":"Apple",
+    "model":"iPhone 7 Plus",
+    "price":"800",
+    "screen":"5.5",
+    "camera":"2x12",
+    "memory":"128" 
+    },{
+    "OS":"iOS",
+    "brand":"Apple",
+    "model":"iPhone 7 Plus",
+    "price":"800",
+    "screen":"5.5",
+    "camera":"2x12",
+    "memory":"256"  
+    }
+]};
